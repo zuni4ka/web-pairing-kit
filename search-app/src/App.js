@@ -6,4 +6,4 @@ export const App = () => {
       Travel Activities
     </main>
   );
-}
+};
